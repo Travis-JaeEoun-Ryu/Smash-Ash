@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "531313211708",
+    "firebase_url": "https://smashashgame-default-rtdb.firebaseio.com",
+    "project_id": "smashashgame",
+    "storage_bucket": "smashashgame.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:531313211708:android:bdf45e8a916f59bce38639",
+        "android_client_info": {
+          "package_name": "com.DefaultCompany.Smash.Ash"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "531313211708-sqcij2m12g5iadl9q21j82f3ih70kl8j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPEtGQ1ULgtwUgrdGTJYdMeeKeFyIn0qE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "531313211708-sqcij2m12g5iadl9q21j82f3ih70kl8j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
